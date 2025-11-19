@@ -1,6 +1,6 @@
 # International Students Mental Health Analysis (SQL)
 
-## 📝 Overview
+##  Overview
 
 This project explores how studying abroad influences emotional well-being. Using SQL queries inside a PostgreSQL database, I analyze the relationship between **length of stay** and three key mental-health diagnostic tests:
 
@@ -12,7 +12,7 @@ The analysis focuses **only on international students**, following the original 
 
 ---
 
-## 📚 Dataset Structure
+##  Dataset Structure
 
 Your final combined `students` table contains the following important fields:
 
@@ -26,7 +26,7 @@ Your final combined `students` table contains the following important fields:
 
 ---
 
-## 🧪 SQL Analysis Steps
+##  SQL Analysis Steps
 
 ### 1. Filter for international students
 
@@ -60,7 +60,7 @@ ORDER BY stay DESC
 
 ---
 
-## 🧩 Final SQL Query
+##  Final SQL Query
 
 ```sql
 SELECT
